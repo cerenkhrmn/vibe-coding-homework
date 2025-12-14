@@ -16,7 +16,9 @@ One of the main challenges was managing state consistency and validation, especi
 Another challenge was ensuring that the AI-generated UI matched the intended user experience. In several cases, manual intervention was necessary to simplify components and remove unnecessary features. Windsurf was helpful for rapid iteration, but human oversight remained essential to ensure correctness and design intent.
 
 ## Reflection
-This project demonstrated that vibe coding can significantly accelerate development by reducing repetitive tasks and providing immediate feedback. However, it also highlighted the importance of clearly defining boundaries and constraints when working with AI tools.
+This project provided hands-on experience with the concept of **antigravity development**, also referred to as **vibe coding**. In this context, antigravity does not represent a specific library or framework, but rather a development mindset where the developer focuses on intent, constraints, and high-level decisions while the AI assists with implementation details.
 
-I would use Windsurf again for future projects, especially during early-stage prototyping and UI-heavy development. As AI-assisted tools continue to evolve, they are likely to shift the developer’s role toward higher-level decision-making, problem-solving, and design thinking rather than low-level implementation details.
+Working with Windsurf demonstrated how antigravity-style development can accelerate iteration and reduce cognitive load, especially during UI creation and refactoring. However, the experience also highlighted that AI tools still require clear guidance and human oversight. Core product rules, such as enforcing the Pomodoro Technique and limiting customization, were consciously controlled by the developer rather than delegated to the AI.
+
+I would use Windsurf again for future projects, particularly during early-stage prototyping and exploratory development. As antigravity and vibe coding tools continue to evolve, they are likely to reshape software development by shifting the developer’s role toward design thinking, system-level decisions, and creative problem-solving rather than low-level code writing.
 
