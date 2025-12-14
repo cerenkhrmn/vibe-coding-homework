@@ -75,9 +75,7 @@ Windsurf was used to generate, refactor, and iteratively improve both the applic
 ```bash
 npm install
 npm run dev
-
-
-
+```
 
 ## How to Use
 
