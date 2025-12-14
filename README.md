@@ -1,9 +1,5 @@
 # Pomodoro Timer Web Application - Product Definition
 
-## Screenshot
-
-![Pomodoro Timer Screenshot](public/screenshot.png)
-
 
 ## 1. What is a Pomodoro Timer?
 
