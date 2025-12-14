@@ -75,6 +75,7 @@ Windsurf was used to generate, refactor, and iteratively improve both the applic
 npm install
 npm run dev
 
+
 ### How to Use
 - *1.* Click **Start** to begin a Pomodoro session (25 minutes).
 - *2.* After each Pomodoro, a short break (5 minutes) starts automatically.
