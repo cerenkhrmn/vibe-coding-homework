@@ -76,6 +76,9 @@ Windsurf was used to generate, refactor, and iteratively improve both the applic
 npm install
 npm run dev
 
+
+
+
 ## How to Use
 
 1. **Start a Pomodoro Session**  
