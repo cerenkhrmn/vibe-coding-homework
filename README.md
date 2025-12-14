@@ -47,4 +47,33 @@ A minimal but effective Pomodoro Timer web app should:
    - Dark/light mode
    - Task management
 
+   ---
+
+## Technical Details
+
+### Technologies Used
+- React
+- TypeScript
+- Vite
+- Windsurf (AI-first code editor)
+
+### Vibe Coding Tool
+This project was developed using **Windsurf**, an AI-first code editor.  
+Windsurf was used to generate, refactor, and iteratively improve both the application logic and the user interface through natural language prompts.
+
+### Features Implemented
+- Classic Pomodoro Timer (25-minute work sessions)
+- 5-minute short breaks
+- Automatic long break after every 4 Pomodoros
+- Long break duration configurable between 15–30 minutes
+- Start, Pause, and Reset controls
+- Settings persistence using localStorage
+- Modern, responsive UI
+
+### Installation & Run
+```bash
+npm install
+npm run dev
+
+
 
