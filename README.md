@@ -76,13 +76,26 @@ Windsurf was used to generate, refactor, and iteratively improve both the applic
 npm install
 npm run dev
 
+## How to Use
+
+1. **Start a Pomodoro Session**  
+   Click the **Start** button to begin a 25-minute focused work session (Pomodoro).
+
+2. **Automatic Short Breaks**  
+   After each Pomodoro session, a **5-minute short break** starts automatically.
+
+3. **Long Break After 4 Pomodoros**  
+   Once **4 Pomodoro sessions** are completed, the timer switches to a **long break**.
+
+4. **Adjust Long Break Duration**  
+   The long break duration can be customized between **15–30 minutes** from the **settings panel**.  
+   Values below 15 minutes are saved as 15, and values above 30 minutes are saved as 30.
+
+5. **Pause or Reset**  
+   You can **pause** the timer at any time or click **Reset** to restart the current session.
 
 
-### How to Use
-- *1.* Click **Start** to begin a Pomodoro session (25 minutes).
-- *2.* After each Pomodoro, a short break (5 minutes) starts automatically.
-- *3.* After completing 4 Pomodoros, a long break begins.
-- *4.* Long break duration can be adjusted between 15–30 minutes from the settings panel.
+
 
 
 
