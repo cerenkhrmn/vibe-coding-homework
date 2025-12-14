@@ -70,10 +70,12 @@ Windsurf was used to generate, refactor, and iteratively improve both the applic
 - Settings persistence using localStorage
 - Modern, responsive UI
 
-### Installation & Run
+## Installation & Run
+
 ```bash
 npm install
 npm run dev
+
 
 
 ### How to Use
