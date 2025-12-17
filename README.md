@@ -3,7 +3,7 @@
 A simple and responsive Pomodoro Timer web application built using **React** and **TypeScript**, developed as part of an assignment exploring **vibe coding tools**.  
 The project was created using **Windsurf**, an AI-first code editor, to experiment with conversational, context-aware software development.
 
-![Pomodoro Timer Screenshot](/screenshot.png)
+![Pomodoro Timer Screenshot](./public/screenshot.png)
 
 ---
 
