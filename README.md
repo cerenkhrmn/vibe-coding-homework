@@ -38,8 +38,8 @@ Windsurf was used throughout the development process to generate components, ref
 To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/cerenkhrmn/vibe-coding-homework.git
+cd vibe-coding-homework
 npm install
 npm run dev
 ```
