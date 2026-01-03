@@ -47,20 +47,6 @@ The application will be available at http://localhost:5173.
 
 ---
 
-## Run with Docker
-
-### Build Docker Image
-```bash
-docker build -t pomodoro-app .
-```
----
-
-## Run Docker Container
-```bash
-docker run -p 5173:5173 pomodoro-app
-```
----
-
 ## How to Use
 
 1. Click **Start** to begin a 25-minute focused work session.
@@ -74,3 +60,19 @@ docker run -p 5173:5173 pomodoro-app
 ## Credits
 
 This project was developed as part of a university assignment focused on exploring modern AI-powered vibe coding tools and their impact on the software development workflow.
+
+---
+
+## Run with Docker
+
+### Build Docker Image
+```bash
+docker build -t pomodoro-app .
+```
+---
+
+## Run Docker Container
+```bash
+docker run -p 5173:5173 pomodoro-app
+```
+---
