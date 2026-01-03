@@ -52,13 +52,13 @@ The application will be available at http://localhost:5173.
 ### Build Docker Image
 ```bash
 docker build -t pomodoro-app .
-
+```
 ---
 
 ## Run Docker Container
 ```bash
 docker run -p 5173:5173 pomodoro-app
-
+```
 ---
 
 ## How to Use
